@@ -1,2 +1,4 @@
 # form-stepper-history
-A util class to help you manage the step history of a form with pages, if those pages are not predictable.
+
+Form Stepper is a vue module that allows you to set up transitions between states of a form and apply rules that govern 
+those transitions.

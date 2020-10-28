@@ -1,0 +1,16 @@
+{
+  "name": "form-stepper-history",
+  "version": "1.0.0",
+  "description": "A util class to help you manage the step history of a form with pages, if those pages are not predictable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "stepper",
+    "form-stepper"
+  ],
+  "author": "Aaron Rackley",
+  "license": "MIT"
+}
